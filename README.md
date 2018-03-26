@@ -2432,3 +2432,7 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# react-demo
+#Sampple React App Structure
+>>>>>>> 3dc5b0e3edfe652b631184e337b2a5357d08d755
